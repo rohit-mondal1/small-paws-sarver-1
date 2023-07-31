@@ -3,7 +3,6 @@
 
 # api
 
-
 * product 
 * /api/v1/product  --------get   [{ category: category }, { price: price }, { _id: new ObjectId(id)}],
 * pagination ----- page=value  page=4
